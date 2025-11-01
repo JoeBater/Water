@@ -1,0 +1,33 @@
+# data handling
+pandas
+numpy
+
+# EPANET interaction
+#epanettools
+epyt
+wntr
+
+# machine learning
+scikit-learn
+mlflow
+PuLP
+
+# visualization
+matplotlib
+seaborn
+streamlit
+
+# utilities
+requests    
+python-dotenv
+tqdm
+numba
+
+# explanations
+shap
+openai
+numba
+
+# explanations
+shap
+openai
